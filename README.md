@@ -9,7 +9,7 @@ https://github.com/edumachadodarosa/galeriaFotos/assets/145352273/e8f7468c-54ae-
 index.html: Contém a estrutura HTML 
 
 
-para a galeria de fotos.<br>
+Para a galeria de fotos.<br>
 style.css: Folha de estilo CSS para design responsivo e efeitos visuais.<br>
 img: Diretório que armazena as imagens da galeria.
 
